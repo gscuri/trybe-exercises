@@ -4,9 +4,9 @@ let valor1 = 7;
 let valor2 = 23;
 
 if (valor1 > valor2) {
-  console.log(' Valor1 é o maior numero');
+  console.log(valor1);
 } else if (valor1 < valor2) {
-  console.log('Valor 2 é o maior numero');
+  console.log(valor2);
 } else {
   console.log('Numeros iguais');
 }
